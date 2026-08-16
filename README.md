@@ -1,5 +1,3 @@
-# Gemini-Python-Chatbot
-
 # Gemini AI Chatbot using Python
 
 A simple AI chatbot built with **Python** and the **Google Gemini API**.
